@@ -1,0 +1,4 @@
+# Daftar short link & wrapper untuk pengujian batch
+https://bit.ly/3example1
+https://tinyurl.com/example2
+https://www.google.com/url?q=https://github.com/Jamz-colins

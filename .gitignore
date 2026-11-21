@@ -1,0 +1,10 @@
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+hasil_bypass.txt
+*.log
+.vscode/
+.idea/
